@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://tembilamusion.github.io/.github/HoudahSpot">  
+  <a href="https://installation-osx.github.io/.github/HoudahSpot">  
     <img src="https://img.shields.io/badge/⬇️_Get_HoudahSpot-4B9CD3?style=for-the-badge&logo=apple&logoColor=white" alt="Get HoudahSpot">  
   </a>  
 </div>  
